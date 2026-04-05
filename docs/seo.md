@@ -1,5 +1,5 @@
 ---
-title: SEO Lab
+title: SEO 实验
 nav_order: 4
 ---
 
