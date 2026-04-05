@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: 法学生成长
 nav_order: 2
 ---
 
