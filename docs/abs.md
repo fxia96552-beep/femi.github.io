@@ -1,8 +1,8 @@
 ---
-title: Blog
-nav_order: 1
+title: ABS Notes
+nav_order: 2
 ---
 
-# Blog
+# ABS Notes
 
-This is where I share thoughts on law, career, and practical issues.
+Structured notes on asset-backed securities.
