@@ -8,4 +8,4 @@ nav_order: 1
 
 > We are so rarely seen that being seen begins to feel like love.
 
-Welcome to my personal knowledge space.
+This is my film poster archive.
